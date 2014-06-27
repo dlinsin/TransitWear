@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Transit Wear</string>
+    <string name="activity_service_name">Transit Wear Activity Service</string>
+    <string name="location_service_name">Transit Wear Location Service</string>
+    <string name="description">Transit Wear notifies you about nearby train departures, when you are on the move.</string>
+    <string name="switchOffDescription">Not receiving notifications</string>
+    <string name="switchOnDescription">Receiving notifications</string>
+    <string name="cancel">Cancel</string>
+    <string name="resume">Resume</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/dlinsin/dev/TransitWear/app/build/intermediates/pre-dexed/debug/wearable-preview-support-8a3a03e966e4c0e8f5159310021eab69684f4fd1.jar"
+        jar="/Users/dlinsin/dev/TransitWear/app/libs/wearable-preview-support.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4f4678fce7b2869bee25328441563fc61037b6cc"/>
+    <item
+        dex="/Users/dlinsin/dev/TransitWear/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-741de35d59a9cb20a7fd7cf4109aee5a85de8c53.jar"
+        jar="/Users/dlinsin/dev/adt/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/dlinsin/dev/TransitWear/app/build/intermediates/pre-dexed/debug/classes-a4c2d2c3cd6e2583054055a561428e9e1f1d9cb1.jar"
+        jar="/Users/dlinsin/dev/TransitWear/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059"/>
+    <item
+        dex="/Users/dlinsin/dev/TransitWear/app/build/intermediates/pre-dexed/debug/jsoup-1.7.3-1a5f0c838157c81f135bdbe8135cdf5ed392ab83.jar"
+        jar="/Users/dlinsin/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.7.3/92568d7167ce1bf9eb1fd815b022d5a2c113547a/jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="92568d7167ce1bf9eb1fd815b022d5a2c113547a"/>
+
+</pre-dex-items>

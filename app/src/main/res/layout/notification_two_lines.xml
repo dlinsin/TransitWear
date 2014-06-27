@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:id="@+id/custom_notification_1"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:gravity="left">
+
+    <include layout="@layout/notification_base"/>
+    <include layout="@layout/notification_line_1"/>
+    <include layout="@layout/notification_line_2"/>
+    <include layout="@layout/notification_bottom"/>
+
+</RelativeLayout>
